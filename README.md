@@ -7,7 +7,7 @@ The system leverages **AI-powered predictive analytics** to reduce downtime, enh
 
 ## 📄 Project Report  
 A detailed description of the project, including problem statement, solution design, technical implementation, and dataset examples, is available in the full report:  
-[📑 View Report](./report/AI_Predictive_Maintenance_Gas_Pipelines.pdf)  
+[📑 View Report](./report/AI_Predictive_Maintenance_Gas_Pipelines (1).pdf)  
 
 ---
 

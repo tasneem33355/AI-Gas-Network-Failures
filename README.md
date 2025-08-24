@@ -1,13 +1,25 @@
-# AI-Powered Predictive Maintenance for Gas Networks  
+# AI-Powered Predictive Maintenance Dashboard for Gas Networks  
 
-This repository contains a machine learning project aimed at predicting and preventing failures in gas pipeline networks.  
-The system leverages **AI-powered predictive analytics** to reduce downtime, enhance safety, and optimize maintenance operations.  
+This project aims to build an **interactive AI-powered dashboard** that predicts failures in gas pipeline networks before they happen.  
+The system will provide real-time insights, predictive alerts, and visualizations to help reduce costs, save time, and improve operational safety.  
 
 ---
 
 ## 📄 Project Report  
-A detailed description of the project, including problem statement, solution design, technical implementation, and dataset examples, is available in the full report:  
-[📑 View Report](./report/AI_Predictive_Maintenance_Gas_Pipelines%20(1).pdf)
+The full project report is available here:  
+[📑 View Report](./report/AI_Predictive_Maintenance_Gas_Pipelines.pdf)  
+
+---
+
+## 🎯 Project Vision  
+From the very first phase, the project will not only include machine learning models,  
+but also provide a **dashboard** that allows operators to:  
+
+- Monitor gas pipeline parameters in real time (pressure, flow, temperature, vibration, etc.).  
+- Visualize data trends through interactive charts.  
+- Receive **predictive alerts** when there is a high probability of failure.  
+- Save **money, time, and resources** by preventing unplanned maintenance.  
+- Improve **safety and efficiency** across the gas network.  
 
 ---
 
@@ -19,23 +31,18 @@ A detailed description of the project, including problem statement, solution des
 
 ---
 
-## 🎯 Goals  
-- Collect and preprocess SCADA data (temperature, pressure, flow, vibration, etc.)  
-- Apply machine learning models (starting with Random Forest) for failure prediction  
-- Integrate predictive alerts into SCADA dashboards  
-- Reduce unplanned downtime and operational costs  
-- Improve safety and efficiency of gas pipeline operations  
-
----
-
 ## 🛠️ Tech Stack  
 - **Programming:** Python  
-- **ML Frameworks:** Scikit-learn, TensorFlow / PyTorch  
 - **Data Processing:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn  
-- **Integration:** SCADA system APIs  
+- **Machine Learning:** Scikit-learn (Random Forest, Regression models), TensorFlow / PyTorch (future upgrades)  
+- **Dashboard & Visualization:** Streamlit / Dash (Plotly) for interactive UI  
+- **Integration:** SCADA system APIs (planned)  
 
 ---
 
-## 📂 Repository Structure  
-
+## 🚀 Expected Outcomes  
+- An **interactive dashboard** to monitor and predict pipeline failures.  
+- Reduced maintenance costs through **early fault detection**.  
+- Improved **safety** and prevention of hazardous incidents.  
+- **Energy efficiency** through optimized operations.  
+- A scalable solution adaptable to other **critical infrastructure sectors**.  

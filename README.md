@@ -12,7 +12,7 @@ A detailed description of the project, including problem statement, solution des
 ---
 
 ## 👥 Team: Visionary Vectors Team  
-- **Tasneem Mohamed** (Team Leader)  
+- Tasneem Mohamed
 - Ahmad Behiry  
 - Kareem Abdelnasser  
 - Yousef Koriem  

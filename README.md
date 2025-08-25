@@ -7,7 +7,7 @@ The system will provide real-time insights, predictive alerts, and visualization
 
 ## 📄 Project Report  
 The full project report is available here:  
-[📑 View Report](./report/AI_Predictive_Maintenance_Gas_Pipelines%20(1).pdf)
+[📑 View Report](./report/AI_Predictive_Maintenance_Gas_Pipeline..pdf)
 
 ---
 
